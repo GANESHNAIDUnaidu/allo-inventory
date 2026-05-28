@@ -2,7 +2,7 @@
 
 A Next.js inventory reservation platform for multi-warehouse retail. Customers can reserve stock at checkout, holding units for 10 minutes while payment completes — preventing overselling without tanking conversion by blocking stock at add-to-cart time.
 
-**Live URL:** `https://allo-inventory-reservation-blond.vercel.app/  
+**Live URL:** `https://appjs--ganesheducatio1.replit.app 
 
 
 ---
